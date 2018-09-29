@@ -6,8 +6,10 @@ If you have successfully learned how to use Git, please fork this file README.md
 
 username:'XXX' (XXX is the username you registered on our recruitment platform)
 
-Hello,my name is Prime Lee.\n
-Hello,my name is 楼新(markwin)\n
+Hello,my name is Prime Lee.
+
+Hello,my name is 楼新(markwin)
+
 Hello,my name is 刘露
 
 
